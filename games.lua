@@ -1,6 +1,6 @@
 return {
     ["7336302630"] = {
-        image = false,
+        name = "Project Delta",
         link = "",
         info = [[ ]],
         last_updated = "",
